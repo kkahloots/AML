@@ -1,5 +1,5 @@
 #AML solution
-Anti-money Lundary case studey
+Anti-Money Lundary Case Study
 
 ![images1](https://github.com/kkahloots/AML/blob/master/images/AML1.png)
 
