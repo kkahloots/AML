@@ -1,5 +1,5 @@
 #AML solution
-Anti-Money Lundary Case Study
+Anti-Money Laundry Case Study
 
 ![images1](https://github.com/kkahloots/AML/blob/master/images/AML1.png)
 
